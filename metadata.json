@@ -1,0 +1,6 @@
+{
+  "name": "DGZ-wms - Gestión de Inventario en Tiempo Real",
+  "description": "Sistema profesional de gestión de inventario y almacenes DGZ-wms con seguimiento en tiempo real, control de lotes, alertas inteligentes de stock bajo y vencimiento de productos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
